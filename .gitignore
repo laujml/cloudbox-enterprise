@@ -2,7 +2,6 @@
 terraform.tfstate
 terraform.tfstate.backup
 *.tfstate*
-.terraform.lock.hcl
 consumer.zip
 lambda/*.zip
 frontend/node_modules/
